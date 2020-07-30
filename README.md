@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago Melo. 👋
 
-I am a software engineer with more than 10 years of proven experience, always focused on business solutions. I have been working with the Java Platform since 2008. Practical experience in various technologies, among them Spring MVC, Spring Boot, Spring Framework, Hibernate, Play Framework, JUnit, Log4J, Maven, Docker, Kubernetes, Jenkins, Git. I also have a solid experience working with clients, designers and programmers to identify business and technical requirements.
+I am a software engineer with more than 10 years of proven experience, always focused on business solutions. I have been working with the Java Platform since 2008. Practical experience in various technologies, among them, Spring MVC, Spring Boot, Spring Framework, Hibernate, Play Framework, JUnit, Log4J, Maven, Docker, Kubernetes, Jenkins, Git. I also have a solid experience working with clients, designers and programmers to identify business and technical requirements.
 
 📫 To reach me, feel free to access one of my social media profile below. 
 
